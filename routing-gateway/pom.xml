@@ -13,13 +13,6 @@
     <version>2.0.0-SNAPSHOT</version>
     <name>routing-gateway</name>
     <description>Passerelle API pour le routage des requêtes vers les microservices</description>
-    <developers>
-        <developer>
-            <id>medori42</id>
-            <name>Karkachi Mohamed</name>
-            <url>https://github.com/MohamedKARKACHI</url>
-        </developer>
-    </developers>
     <properties>
         <java.version>17</java.version>
         <spring-cloud.version>2023.0.0</spring-cloud.version>
